@@ -1,6 +1,5 @@
-# CPSC471Website
-Master Ticket  
-Final Database Project
+# MySQL Database Project
+Master Ticket
 
 Note: change server, username, and password in dbConnect() function in db_functions.php to your own username and password  
 
